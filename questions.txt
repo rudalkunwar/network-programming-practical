@@ -1,0 +1,18 @@
+Network programming practical question
+1. Testing the characteristics of an IP address.
+2. Create InetAddress objects for “www.ibiblio.org ”and “helios.ibiblio.org ”and then tell whether they’re same machine or not.
+3. Write a simple program to list all network interface on the local host
+4. Write a simple program to illustrate spam check
+5. Write a simple program to process web server logfiles
+6. Write a simple program by using all eight methods to split URLs entered on the command line into their component parts.
+7. Write a simple program to retrieving data from a URL 
+8. Write a program to demonstrate the parts of the URL
+9. Write a simple program to illustrate x-www-form-urlencoded strings.
+10. Write as simple program for basic user interface for the open directory (Do an open directory search).
+11. Write a simple program for implementation of cookiepolicy
+12. Write a simple program for implementation of persistenCookieStore.
+13. Write a program for Demostrate URLConnection.
+14. Write a program for reading data from server
+15. Write a program for retrieving Arbitrary Fields
+16. Write a program to set ifModifiedSince to 24 Hours prior to Now
+17. Write a program to demonstrate a sourceviewer that includes the response code and message
