@@ -1,4 +1,4 @@
-Network programming practical question
+Network programming practical question.
 1. Testing the characteristics of an IP address.
 2. Create InetAddress objects for “www.ibiblio.org ”and “helios.ibiblio.org ”and then tell whether they’re same machine or not.
 3. Write a simple program to list all network interface on the local host

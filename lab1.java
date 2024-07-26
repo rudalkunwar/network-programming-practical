@@ -1,7 +1,9 @@
 //1. Testing the characteristics of an IP address.
 import java.net.*;
 public class Lab1{
+
     public static void main(String[] args){
+        
       try{
         InetAddress address = InetAddress.getByName("www.rudalkunwar.com.np");
         if(address.isAnyLocalAddress()){
