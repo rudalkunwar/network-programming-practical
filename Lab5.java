@@ -6,7 +6,7 @@ public class lab5 {
     public static void main(String[] args) {
 
 
-        String filename = "/home/rudal-kunwar/network-programming/netwrok-programmig/network-programming-practical/questions.txt";
+        String filename = "/home/rudal-kunwar/network-programming/netwrok-programmig/network-programming-practical/logfile.txt";
 
         try (FileInputStream fin = new FileInputStream(filename);
              Reader in = new InputStreamReader(fin);

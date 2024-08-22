@@ -5,7 +5,7 @@ import java.util.*;
 
 public class Lab9 {
     public static void main(String[] args) throws MalformedURLException, IOException {
-        URL url = new URL("https://www.rudalkunwar.com.np");
+        URL url = new URL("https://www.google.com");
         HttpURLConnection con = (HttpURLConnection) url.openConnection();
         con.setRequestMethod("GET");
 
