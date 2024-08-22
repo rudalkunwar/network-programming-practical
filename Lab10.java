@@ -1,7 +1,7 @@
 import java.net.*;
 import java.io.*;
 
-public class URLConnectionExample {
+public class Lab10 {
     public static void main(String[] args) throws MalformedURLException,IOException {
     
             // Specify the URL to connect to

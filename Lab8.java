@@ -2,7 +2,7 @@
 import java.io.*;
 import java.net.*;
 
-public class EncoderTest {
+public class Lab8 {
     public static void main(String[] args) throws UnsupportedEncodingException {
             System.out.println(URLEncoder.encode("This string has spaces", "UTF-8"));
             System.out.println(URLEncoder.encode("This*string*has*asterisks%percent+pluses/slashes(parentheses)s=equals", "UTF-8"));

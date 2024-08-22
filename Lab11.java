@@ -2,7 +2,7 @@
 import java.io.*;
 import java.net.*;
 
-public class TimeClient {
+public class Lab11 {
     public static void main(String[] args) throws UnknownHostException , IOException {
         String serverAddress = "time.nist.gov"; // A reliable Daytime server
         int port = 13; // Daytime Protocol port
