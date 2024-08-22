@@ -8,6 +8,8 @@ public class Lab7{
         BufferedReader br = new BufferedReader(new InputStreamReader(url.openStream()));
 
         br.lines().forEach(System.out::println);
+
+        br.close();
         
     }
 }

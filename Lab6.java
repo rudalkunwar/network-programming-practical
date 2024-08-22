@@ -12,7 +12,7 @@ public class Lab6{
         System.out.println("The file is : "+url.getFile());
         System.out.println("The query is : "+url.getQuery());
         System.out.println("The user info is : "+url.getUserInfo());
-         System.out.println("The  reference is : "+url.getRef());
+        System.out.println("The  reference is : "+url.getRef());
 
     }
 }
