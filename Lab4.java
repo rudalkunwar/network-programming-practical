@@ -1,4 +1,4 @@
-//  Write a simple program to illustrate spam check
+//  4.Write a simple program to illustrate spam check
 import java.net.*;
 public class SpamCheck {
 

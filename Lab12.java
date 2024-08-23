@@ -1,4 +1,4 @@
-// Getting Information about a Socket
+// 12.Getting Information about a Socket
 import java.net.*;
 import java.io.*;
 public class Lab12 {

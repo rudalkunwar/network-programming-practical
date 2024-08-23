@@ -1,4 +1,4 @@
-// Create InetAddress objects for “www.ibiblio.org ”and 
+// 2. Create InetAddress objects for “www.ibiblio.org ”and 
 // “helios.ibiblio.org ”and then tell whether they’re same machine or not.
 import java.net.*;
 public class Lab2 {

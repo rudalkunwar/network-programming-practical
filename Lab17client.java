@@ -1,3 +1,4 @@
+// 17.RMI Client
 import java.rmi.registry.*;
 public class Client {
     public static void main(String[] args){

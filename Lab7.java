@@ -1,4 +1,4 @@
-//Write a simple program to retrieving data from a URL 
+// 7.Write a simple program to retrieving data from a URL 
 import java.net.*;
 import java.io.*;
 public class Lab7{

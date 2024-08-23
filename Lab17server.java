@@ -1,9 +1,8 @@
+// 17.RMI Server
 import java.rmi.registry.*;
 public class Server {
     public static void main(String[] args){
         try{
-            
-            
             Registry reg = LocateRegistry.createRegistry(2500);
             
             MultiplyImplement mult = new MultiplyImplement();

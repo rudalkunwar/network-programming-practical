@@ -1,3 +1,4 @@
+// 17.RMI Method implementation
 import java.rmi.*;
 import java.rmi.server.*;
 public class MultiplyImplement extends UnicastRemoteObject implements Multiply {

@@ -1,4 +1,4 @@
-// Write a simple program to list all network interface on the local host
+// 3.Write a simple program to list all network interface on the local host
 import java.util.*;
 import java.net.*;
 public class Lab3{
